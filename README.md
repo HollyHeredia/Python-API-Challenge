@@ -1,5 +1,5 @@
-# Python-API-Challenge
-This repository contains homework associated with APIs for data bootcamp. 
+# Weather Analysis
+This repository contains two projects to study the weather using API calls and  
 
 The WeatherPy folder contains code to pull a table from the OpenWeatherMap API and use the information to make scatter plots comparing latitude to temperature, cloudiness, humdity, and wind speed. The images of these plots can be found in the output folder.
 
